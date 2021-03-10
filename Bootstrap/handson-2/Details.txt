@@ -1,0 +1,10 @@
+Index.html
+
+* Responsive Navigation bar is included to the hTrack Application
+* Hamburger menu for mobile devices is created
+* Created Home icon in the navigation bar
+
+EventList.html
+
+* Displayed list of events similar to the layout specified in the hands-on question using List Group component in Bootstrap.
+* Created a badge for displaying rating of previous events

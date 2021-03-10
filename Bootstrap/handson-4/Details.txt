@@ -1,0 +1,9 @@
+Employee Registration form is included to the hTrack Application
+
+* Here index.html ,Eventlist.html and ProductList.html are same as hands-on 3
+
+Register.html
+
+* Used gijgo third party library to include calendar to the date of birth input tab in the form.
+* .btn and .btn-primary styles were overrided by defining css classes
+* Employee registration form was design as per the requirement.

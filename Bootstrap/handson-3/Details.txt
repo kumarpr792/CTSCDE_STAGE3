@@ -1,0 +1,9 @@
+For hTrack Application Products LIst page is Implemented in this hands-on
+* index.html and eventslist.html are same as previous hands-on 
+
+Productslist.html
+
+* Displayed multiple Products using Cards
+* Designed Add to Cart and Favorite for a product using Google Material Icon
+* Designed display of Price for a product and For displaying offer image used Google Material Icon
+* Designed rating display for a product with star using Google Material Icon

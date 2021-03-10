@@ -1,0 +1,4 @@
+Login Page Layout for hTrack Application
+* As specified in hand book a home page is designed 
+* The designed page is Responisve
+* The Sample images as provided in the repository
